@@ -6,7 +6,7 @@ function App() {
     <>
     {/* HEADER */}
      <header>
-      <div class="container col-xl-12 col-lg-12 col-md-12 col-sm-12">
+      <div class="container">
         <div class="nav">
           <div class="nav1"></div>
           <div class="nav2">
