@@ -8,7 +8,7 @@ function App() {
      <header>
       <div class="container">
         <div class="nav">
-          <div class="nav1"><img src="./images/s.png" alt="icon" height="50px"/>&nbsp;aurabh</div>
+        <a href="https://saurabh4748.netlify.app/"> <div class="nav1"><img src="./images/s.png" alt="icon" height="50px"/>&nbsp;aurabh</div></a>
           <div class="nav2">
             <div class="menu"><a href="#about">about</a></div>
             <div class="menu"><a href="#projects">projects</a></div>
