@@ -1086,9 +1086,11 @@ footer {
   margin-bottom: 3%;
 }
 .footerMedia {
+  
   width: 40px;
   height: 40px;
   background-color: blanchedalmond;
+  
   border-radius: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1100,9 +1102,10 @@ footer {
   -ms-flex-align: center;
   align-items: center;
 }
-a {
-  color: rgb(22, 22, 22);
+.footerMedia a{
+  color: rgb(0, 0, 0);
 }
+
 .footerContainer span {
   color: rgb(255, 255, 255);
   font-weight: 100;

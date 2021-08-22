@@ -51,27 +51,27 @@ function App() {
             </div>
             <div class="footerMedias">
 
-          <a href="mailto:pandey.saurabh4748@gmail.com"
-                ><div class="footerMedia"><i class="fab fa-google"></i>
-                </div> </a>
+            <div class="footerMedia"> <a href="mailto:pandey.saurabh4748@gmail.com"
+                ><i class="fab fa-google"></i>
+                </a> </div>
 
-                <a href="https://tg.telepult.pro/Saurabh4748?locale=en" 
-                ><div class="footerMedia"><i class="fab fa-telegram"></i>
-                </div> </a>
+                <div class="footerMedia"> <a href="https://tg.telepult.pro/Saurabh4748?locale=en" 
+                ><i class="fab fa-telegram"></i>
+                </a> </div>
             
-              <a href="https://www.linkedin.com/in/saurabh4748"
-                ><div class="footerMedia"><i class="fab fa-linkedin-in"></i>
-                </div> </a>
+                <div class="footerMedia"> <a href="https://www.linkedin.com/in/saurabh4748"
+                ><i class="fab fa-linkedin-in"></i>
+               </a> </div> 
            
            
-              <a href="https://creativeaces.medium.com/"
-                > <div class="footerMedia"><i class="fab fa-medium"></i
-              ></div></a>
+               <div class="footerMedia"> <a href="https://creativeaces.medium.com/"
+                > <i class="fab fa-medium"></i
+              ></a></div>
             
            
-              <a href="https://github.com/saurabh4748"
-                > <div class="footerMedia"><i class="fab fa-github-alt"></i
-              ></div></a>
+              <div class="footerMedia"><a href="https://github.com/saurabh4748"
+                > <i class="fab fa-github-alt"></i
+              ></a></div>
             
           </div>
          
@@ -201,29 +201,29 @@ function App() {
           </div>
           <div class="footerMedias">
 
-          <a href="mailto:pandey.saurabh4748@gmail.com"
-                ><div class="footerMedia"><i class="fab fa-google"></i>
-                </div> </a>
+<div class="footerMedia"> <a href="mailto:pandey.saurabh4748@gmail.com"
+    ><i class="fab fa-google"></i>
+    </a> </div>
 
-                <a href="https://tg.telepult.pro/Saurabh4748?locale=en" 
-                ><div class="footerMedia"><i class="fab fa-telegram"></i>
-                </div> </a>
-            
-              <a href="https://www.linkedin.com/in/saurabh4748"
-                ><div class="footerMedia"><i class="fab fa-linkedin-in"></i>
-                </div> </a>
-           
-           
-              <a href="https://creativeaces.medium.com/" 
-                > <div class="footerMedia"><i class="fab fa-medium"></i
-              ></div></a>
-            
-           
-              <a href="https://github.com/saurabh4748" 
-                > <div class="footerMedia"><i class="fab fa-github-alt"></i
-              ></div></a>
-            
-          </div>
+    <div class="footerMedia"> <a href="https://tg.telepult.pro/Saurabh4748?locale=en" 
+    ><i class="fab fa-telegram"></i>
+    </a> </div>
+
+    <div class="footerMedia"> <a href="https://www.linkedin.com/in/saurabh4748"
+    ><i class="fab fa-linkedin-in"></i>
+   </a> </div> 
+
+
+   <div class="footerMedia"> <a href="https://creativeaces.medium.com/"
+    > <i class="fab fa-medium"></i
+  ></a></div>
+
+
+  <div class="footerMedia"><a href="https://github.com/saurabh4748"
+    > <i class="fab fa-github-alt"></i
+  ></a></div>
+
+</div>
           
         </div>
       </div>
