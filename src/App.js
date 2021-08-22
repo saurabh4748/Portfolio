@@ -49,32 +49,29 @@ function App() {
                 </div>
               </div>
             </div>
-            <div class="footerMedias col-xl-12 col-lg-12 col-md-12 col-sm-12">
+            <div class="footerMedias">
 
-            <div class="footerMedia"> <a href="mailto:pandey.saurabh4748@gmail.com"
-                ><i class="fab fa-google"></i>
-                </a> </div>
+<div class="footerMedia"> <a href="mailto:pandey.saurabh4748@gmail.com"
+    ><img src="./images/google.png" alt="gmail"/>
+    </a> </div>
 
-                <div class="footerMedia"> <a href="https://tg.telepult.pro/Saurabh4748?locale=en" 
-                ><i class="fab fa-telegram"></i>
-                </a> </div>
-            
-                <div class="footerMedia"> <a href="https://www.linkedin.com/in/saurabh4748"
-                ><i class="fab fa-linkedin-in"></i>
-               </a> </div> 
-           
-           
-               <div class="footerMedia"> <a href="https://creativeaces.medium.com/"
-                > <i class="fab fa-medium"></i
-              ></a></div>
-            
-           
-              <div class="footerMedia"><a href="https://github.com/saurabh4748"
-                > <i class="fab fa-github-alt"></i
-              ></a></div>
-            
-          </div>
-         
+    <div class="footerMedia"> <a href="https://tg.telepult.pro/Saurabh4748?locale=en" 
+    ><img src="./images/telegram.png" alt="telegram"/>
+    </a> </div>
+
+    <div class="footerMedia"> <a href="https://www.linkedin.com/in/saurabh4748"
+    ><img src="./images/linkedin.png" alt="linkedin"/>
+   </a> </div> 
+
+
+   <div class="footerMedia"> <a href="https://creativeaces.medium.com/"
+    > <img src="./images/medium.png" alt="medium"/></a></div>
+
+
+  <div class="footerMedia"><a href="https://github.com/saurabh4748"
+    > <img src="./images/github.png" alt="github"/></a></div>
+
+</div>
           </div>
           <div class="col-md-12 col-lg-4">
             <div class="screenImage">
@@ -202,26 +199,24 @@ function App() {
           <div class="footerMedias">
 
 <div class="footerMedia"> <a href="mailto:pandey.saurabh4748@gmail.com"
-    ><i class="fab fa-google"></i>
+    ><img src="./images/google.png" alt="google"/>
     </a> </div>
 
     <div class="footerMedia"> <a href="https://tg.telepult.pro/Saurabh4748?locale=en" 
-    ><i class="fab fa-telegram"></i>
+    ><img src="./images/telegram.png" alt="telegram"/>
     </a> </div>
 
     <div class="footerMedia"> <a href="https://www.linkedin.com/in/saurabh4748"
-    ><i class="fab fa-linkedin-in"></i>
+    ><img src="./images/linkedin.png" alt="linkedin"/>
    </a> </div> 
 
 
    <div class="footerMedia"> <a href="https://creativeaces.medium.com/"
-    > <i class="fab fa-medium"></i
-  ></a></div>
+    > <img src="./images/medium.png" alt="medium"/></a></div>
 
 
   <div class="footerMedia"><a href="https://github.com/saurabh4748"
-    > <i class="fab fa-github-alt"></i
-  ></a></div>
+    > <img src="./images/github.png" alt="github"/></a></div>
 
 </div>
           

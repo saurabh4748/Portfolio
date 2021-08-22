@@ -1106,6 +1106,9 @@ footer {
 .footerMedia a{
   color: rgb(0, 0, 0);
 }
+.footerMedia img{
+  height: 25px;
+}
 
 .footerContainer span {
   color: rgb(255, 255, 255);
