@@ -24,11 +24,11 @@ function ContactComponents(props){
 
     return(
         <form action="" onSubmit={sendEmail}>
-        <div class="formWord">
+        <div class="formWord col-md-6 col-lg-6">
           <h2>Say Hello!</h2>
           <span>Full Name</span>
           <br />
-          <input class="input100" type="text" name="fullName" required />
+          <input class="input100" type="text" name="fullname" required />
           <br />
           <span>Phone Number</span>
           <br />
@@ -44,7 +44,7 @@ function ContactComponents(props){
           <br />
           <textarea name="message" required></textarea>
           <br />
-          <button>SUBMIT</button>
+          <button class="col-md-6 col-lg-6">SUBMIT</button>
           <br />
           <br />
           <div class="row">{result ? <Result /> : null}</div>

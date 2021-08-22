@@ -220,7 +220,7 @@ header {
 }
 .topBackground {
   width: 100%;
-  height: 300px;
+  height: 400px;
   background-color: #001517;
 }
 svg {
@@ -1036,7 +1036,9 @@ footer {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-}
+  }
+
+
 .footerLogo {
   width: 20%;
   display: -webkit-box;
@@ -1061,8 +1063,7 @@ footer {
 }
 .footerNav,
 .footerMedias {
-  width: 50%;
-  
+  width: 80%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1081,7 +1082,7 @@ footer {
   font-weight: bold;
 }
 .footerMedias {
-  width: 60%;
+  width: 80%;
   margin-top: 7%;
   margin-bottom: 3%;
 }

@@ -6,7 +6,7 @@ function App() {
     <>
     {/* HEADER */}
      <header>
-      <div class="container">
+      <div class="container col-xl-12 col-lg-12 col-md-12 col-sm-12">
         <div class="nav">
           <div class="nav1"></div>
           <div class="nav2">
@@ -49,7 +49,7 @@ function App() {
                 </div>
               </div>
             </div>
-            <div class="footerMedias">
+            <div class="footerMedias col-xl-12 col-lg-12 col-md-12 col-sm-12">
 
             <div class="footerMedia"> <a href="mailto:pandey.saurabh4748@gmail.com"
                 ><i class="fab fa-google"></i>
@@ -76,7 +76,7 @@ function App() {
           </div>
          
           </div>
-          <div class="col-md-12 col-lg-6">
+          <div class="col-md-12 col-lg-4">
             <div class="screenImage">
               <img src="./images/homescreen.png" alt="irene blog" />
             </div>
@@ -91,7 +91,7 @@ function App() {
         <div class="row">
           <div class="col-sm-12">
             <div class="row">
-              <div class="col-md-6">
+              <div class="col-md-6 col-sm-12">
                 <div class="aboutMeImg">
                   <img src="./images/about.png" alt="about me" />
                 </div>
