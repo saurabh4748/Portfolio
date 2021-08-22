@@ -12,7 +12,7 @@ function App() {
           <div class="nav2">
             <div class="menu"><a href="#about">about</a></div>
             <div class="menu"><a href="#projects">projects</a></div>
-            <div class="menu"><a href="https://creativeaces.medium.com/" target="_blank">Blogs</a></div>
+            <div class="menu"><a href="https://creativeaces.medium.com/">Blogs</a></div>
              <div class="menu"><a href="#contact">contact</a></div>
           </div>
          </div>
@@ -40,7 +40,7 @@ function App() {
               </p>
               <div class="twoMainButton">
                 <div class="buttonMain">
-                  <a href="https://drive.google.com/file/d/1JYNUbrxCCypNKevnwwQDBx5i7QsHV98V/view?usp=sharing" target="_blank">Resume</a>
+                  <a href="https://drive.google.com/file/d/1JYNUbrxCCypNKevnwwQDBx5i7QsHV98V/view?usp=sharing">Resume</a>
                   <div class="hrizontalLine"></div>
                 </div>
                 <div class="buttonMain">
@@ -51,25 +51,25 @@ function App() {
             </div>
             <div class="footerMedias">
 
-          <a href="mailto:pandey.saurabh4748@gmail.com" target="__blank"
+          <a href="mailto:pandey.saurabh4748@gmail.com"
                 ><div class="footerMedia"><i class="fab fa-google"></i>
                 </div> </a>
 
-                <a href="https://tg.telepult.pro/Saurabh4748?locale=en" target="__blank"
+                <a href="https://tg.telepult.pro/Saurabh4748?locale=en" 
                 ><div class="footerMedia"><i class="fab fa-telegram"></i>
                 </div> </a>
             
-              <a href="https://www.linkedin.com/in/saurabh4748" target="__blank"
+              <a href="https://www.linkedin.com/in/saurabh4748"
                 ><div class="footerMedia"><i class="fab fa-linkedin-in"></i>
                 </div> </a>
            
            
-              <a href="https://creativeaces.medium.com/" target="__blank"
+              <a href="https://creativeaces.medium.com/"
                 > <div class="footerMedia"><i class="fab fa-medium"></i
               ></div></a>
             
            
-              <a href="https://github.com/saurabh4748" target="__blank"
+              <a href="https://github.com/saurabh4748"
                 > <div class="footerMedia"><i class="fab fa-github-alt"></i
               ></div></a>
             
@@ -136,7 +136,7 @@ function App() {
             <div class="shopBack">
               <img src="./images/university_app.gif" alt="recent"/>
               <div class="shoplebal">
-                <a href="https://github.com/saurabh4748/College_App_User" target="_blank">Read More</a>
+                <a href="https://github.com/saurabh4748/College_App_User">Read More</a>
               </div>
             </div>
             <div class="shoptext">
@@ -150,7 +150,7 @@ function App() {
             <div class="shopBack">
               <img src="./images/attendance.jpg" alt="recent" />
               <div class="shoplebal">
-                <a href="https://github.com/saurabh4748/Attendance-with-Face-Recognition" target="_blank">Read More</a>
+                <a href="https://github.com/saurabh4748/Attendance-with-Face-Recognition">Read More</a>
               </div>
             </div>
             <div class="shoptext">
@@ -164,7 +164,7 @@ function App() {
             <div class="shopBack">
               <img src="./images/goeaterys.gif" alt="recent" />
               <div class="shoplebal">
-                <a href="https://github.com/saurabh4748/goEatery" target="_blank">Read More</a>
+                <a href="https://github.com/saurabh4748/goEatery">Read More</a>
               </div>
             </div>
             <div class="shoptext">
@@ -201,25 +201,25 @@ function App() {
           </div>
           <div class="footerMedias">
 
-          <a href="mailto:pandey.saurabh4748@gmail.com" target="__blank"
+          <a href="mailto:pandey.saurabh4748@gmail.com"
                 ><div class="footerMedia"><i class="fab fa-google"></i>
                 </div> </a>
 
-                <a href="https://tg.telepult.pro/Saurabh4748?locale=en" target="__blank"
+                <a href="https://tg.telepult.pro/Saurabh4748?locale=en" 
                 ><div class="footerMedia"><i class="fab fa-telegram"></i>
                 </div> </a>
             
-              <a href="https://www.linkedin.com/in/saurabh4748" target="__blank"
+              <a href="https://www.linkedin.com/in/saurabh4748"
                 ><div class="footerMedia"><i class="fab fa-linkedin-in"></i>
                 </div> </a>
            
            
-              <a href="https://creativeaces.medium.com/" target="__blank"
+              <a href="https://creativeaces.medium.com/" 
                 > <div class="footerMedia"><i class="fab fa-medium"></i
               ></div></a>
             
            
-              <a href="https://github.com/saurabh4748" target="__blank"
+              <a href="https://github.com/saurabh4748" 
                 > <div class="footerMedia"><i class="fab fa-github-alt"></i
               ></div></a>
             
