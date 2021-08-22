@@ -8,7 +8,7 @@ function App() {
      <header>
       <div class="container">
         <div class="nav">
-          <div class="nav1"></div>
+          <div class="nav1"><img src="./images/s.png" alt="icon" height="50px"/>&nbsp;aurabh</div>
           <div class="nav2">
             <div class="menu"><a href="#about">about</a></div>
             <div class="menu"><a href="#projects">projects</a></div>
