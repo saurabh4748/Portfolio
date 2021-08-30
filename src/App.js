@@ -55,7 +55,7 @@ function App() {
     ><img src="./images/google.png" alt="gmail"/>
     </a> </div>
 
-    <div class="footerMedia"> <a href="https://tg.telepult.pro/Saurabh4748?locale=en" 
+    <div class="footerMedia"> <a href="tg://resolve?domain=saurabh4748" 
     ><img src="./images/telegram.png" alt="telegram"/>
     </a> </div>
 
