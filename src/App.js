@@ -40,7 +40,7 @@ function App() {
               </p>
               <div class="twoMainButton">
                 <div class="buttonMain">
-                  <a href="https://drive.google.com/file/d/1bX4gq5iARj1RAbddhqprp2oKxrG02Phl/view?usp=sharing">Resume</a>
+                  <a href="https://drive.google.com/file/d/1yB53YFYPHWuhU6exbf6Ac0sWsUd_OpCR/view?usp=sharing">Resume</a>
                   <div class="hrizontalLine"></div>
                 </div>
                 <div class="buttonMain">
