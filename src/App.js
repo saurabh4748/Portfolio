@@ -137,7 +137,7 @@ function App() {
               </div>
             </div>
             <div class="shoptext">
-              <p>University App</p>
+              <p>PUSSGRC: University App</p>
               <h3>
               This is an android application aimed to be a one-stop for Panjab University students.
               </h3>
@@ -159,13 +159,27 @@ function App() {
           </div>
           <div class="shop col-lg-3 col-md-4 col-sm-6">
             <div class="shopBack">
+              <img src="./images/caption.jpg" alt="recent" />
+              <div class="shoplebal">
+                <a href="https://github.com/saurabh4748/Capifyy">Read More</a>
+              </div>
+            </div>
+            <div class="shoptext">
+              <p>Capifyy: Image Captioning </p>
+              <h3>
+              Generate Caption by Uploading Random Image using Machine Learning.
+              </h3>
+            </div>
+          </div>
+          <div class="shop col-lg-3 col-md-4 col-sm-6">
+            <div class="shopBack">
               <img src="./images/goeaterys.gif" alt="recent" />
               <div class="shoplebal">
                 <a href="https://github.com/saurabh4748/goEatery">Read More</a>
               </div>
             </div>
             <div class="shoptext">
-              <p>Sell And Buy App</p>
+              <p>goEatery: Restaurant Finder</p>
               <h3>
                 Responsive Website provides information of the best restaurants of the city.
               </h3>
