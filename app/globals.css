@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Light Mode (used mainly for system defaults) */
+    --background: 0 0% 100%;             /* White */
+    --foreground: 0 0% 0%;               /* Black text */
+    --card: 0 0% 100%;                   /* White cards */
+    --card-foreground: 0 0% 0%;          /* Black text */
+    --primary: 199 89% 48%;              /* 0EA5E9 */
+    --primary-foreground: 0 0% 0%;       /* Black text */
+    --secondary: 0 0% 90%;               /* E5E5E5 */
+    --secondary-foreground: 0 0% 0%;     /* Black */
+    --muted: 0 0% 90%;                  
+    --muted-foreground: 0 0% 30%;
+    --accent: 0 0% 90%;
+    --accent-foreground: 0 0% 0%;
+    --border: 0 0% 80%;
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    /* Dark Mode - Palette per spec */
+    --background: 0 0% 0%;               /* #000000 */
+    --foreground: 0 0% 100%;             /* #FFFFFF */
+    --card: 221 51% 16%;                 /* #14213D */
+    --card-foreground: 0 0% 100%;        /* White text */
+    --primary: 199 89% 48%;              /* #0EA5E9 */
+    --primary-foreground: 0 0% 0%;       /* Black text */
+    --secondary: 221 30% 12%;            /* darker navy */
+    --secondary-foreground: 0 0% 90%;    /* Light gray */
+    --muted: 220 14% 20%;                /* muted navy */
+    --muted-foreground: 0 0% 85%;        /* pale gray */
+    --accent: 0 0% 90%;                  /* #E5E5E5 for chips */
+    --accent-foreground: 0 0% 0%;        /* black text */
+    --border: 220 20% 25%;               /* subtle outline */
+  }
+}
+
+@layer base {
+  * {
+    border-color: hsl(var(--border));
+  }
+  body {
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    background: linear-gradient(to right, hsl(var(--primary)), hsl(var(--primary)));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .glow {
+    box-shadow: 0 0 20px rgba(14, 165, 233, 0.3);
+  }
+  
+  /* Tech-inspired grid pattern */
+  .tech-grid {
+    background-image: 
+      linear-gradient(rgba(99, 102, 241, 0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(99, 102, 241, 0.03) 1px, transparent 1px);
+    background-size: 50px 50px;
+  }
+  
+  .dark .tech-grid {
+    background-image: 
+      linear-gradient(rgba(99, 102, 241, 0.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(99, 102, 241, 0.05) 1px, transparent 1px);
+  }
+  
+  /* Code-like monospace utility */
+  .code-accent {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    letter-spacing: -0.02em;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  min-height: auto;
+}
+
+@media (min-width: 768px) {
+  section {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+}
+
+/* Ensure consistent spacing for all sections */
+section:not(#hero) {
+  scroll-margin-top: 5rem;
+}

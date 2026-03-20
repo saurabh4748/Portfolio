@@ -1,0 +1,6 @@
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="40" rx="10" fill="#050b22"/>
+  <path d="M23 12L12 20L23 28" stroke="#ff784f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="35" y="26" fill="#f6f6f6" font-family="'Space Grotesk', 'Segoe UI', sans-serif" font-size="18" font-weight="600">Saurabh Pandey</text>
+  <text x="35" y="36" fill="#8ea1ff" font-family="'Space Grotesk', 'Segoe UI', sans-serif" font-size="10" letter-spacing="0.2em">AI · DATA ENGINEER</text>
+</svg>
